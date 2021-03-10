@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Tron Test Suite" tests="3" assertions="8" errors="0" failures="0" skipped="0" time="0.211369">
+    <testsuite name="IEXBase\TronAPI\Tests\TronTest" file="C:\xampp\htdocs\tron-api-master\tests\TronTest.php" tests="3" assertions="8" errors="0" failures="0" skipped="0" time="0.211369">
+      <testcase name="test_isValidProvider" class="IEXBase\TronAPI\Tests\TronTest" classname="IEXBase.TronAPI.Tests.TronTest" file="C:\xampp\htdocs\tron-api-master\tests\TronTest.php" line="17" assertions="1" time="0.159669"/>
+      <testcase name="test_setAddress" class="IEXBase\TronAPI\Tests\TronTest" classname="IEXBase.TronAPI.Tests.TronTest" file="C:\xampp\htdocs\tron-api-master\tests\TronTest.php" line="25" assertions="2" time="0.051514"/>
+      <testcase name="test_setDefaultBlock" class="IEXBase\TronAPI\Tests\TronTest" classname="IEXBase.TronAPI.Tests.TronTest" file="C:\xampp\htdocs\tron-api-master\tests\TronTest.php" line="34" assertions="5" time="0.000186"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
