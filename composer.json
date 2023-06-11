@@ -19,7 +19,7 @@
 
     "require": {
         "php": "^7.2",
-        "guzzlehttp/guzzle": "^7.*",
+        "guzzlehttp/guzzle": "7.*",
         "sc0vu/web3.php": "dev-master",
         "kornrunner/secp256k1": "^0.1.2",
         "simplito/elliptic-php": "^1.0"
