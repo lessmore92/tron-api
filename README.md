@@ -11,7 +11,7 @@ A PHP API for interacting with the Tron Protocol
 ## Install
 
 ```bash
-> composer require iexbase/tron-api
+> composer require lessmore92/tron-api
 ```
 ## Requirements
 
