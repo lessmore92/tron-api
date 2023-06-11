@@ -5,6 +5,7 @@
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
+.idea
 
 # Generated files
 .idea/**/contentModel.xml
